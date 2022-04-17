@@ -3,6 +3,6 @@ name: nginxhello
 description: A Helm chart for nginxhello workload
 type: application
 version: 1.0.0
-appVersion: 1.19.0
+appVersion: 1.19.1
 sources:
   - https://github.com/XerO00/gitops-nginxhello
